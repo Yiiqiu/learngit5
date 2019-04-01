@@ -13,6 +13,8 @@ public class A {
 
 
         System.out.println("右边第3次修改A");
+        System.out.println("右边第4次修改A");
+
 
 
     }

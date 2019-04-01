@@ -9,6 +9,8 @@ public class A {
         System.out.println("我也又在修改A，又造成了冲突");
         System.out.println("右边在修改A");
 
+        System.out.println("左边又在修改A");
+
 
     }
 }
